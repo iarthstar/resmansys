@@ -1,0 +1,11 @@
+body {
+  background-color: whitesmoke;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.mdl-data-table td {
+  cursor: pointer;
+}
