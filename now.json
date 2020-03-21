@@ -1,7 +1,0 @@
-{
-  "name": "resmansys-development",
-  "version": 1,
-  "env": {
-    "REACT_APP_CURRENT_ENV": "staging"
-  }
-}
